@@ -141,6 +141,7 @@ a:hover {
   margin-bottom: 50px;
   display: block;
   text-align: center;
+  margin-left: 130px;
 }
 
 /*
@@ -235,6 +236,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-left: 102px;
 }
 
 #tmContactForm {
